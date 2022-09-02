@@ -40,19 +40,23 @@ Publications
 
 Teaching
 ======
-* **Computational Economics**, USTC
-: Teaching Assistant, 2021,2022
-
-* **Software Engineering**, USTC
-: Teaching Assistant, 2019
-
-* **Data Structure**, USTC
-: Teaching Assistant, 2017
+* **Computational Economics**, Teaching Assistant, USTC, 2021, 2022
+* **Software Engineering**,  Teaching Assistant, USTC, 2019
+* **Data Structure**, Teaching Assistant, USTC, 2017
 
 
-Service and leadership
+Patents
 ======
-* Currently signed in to 43 different slack teams
+* Xiang-Yang Li, Xiaojing Yu, Lan Zhang. A method of updating map navigation cache database, Patent No.202110704336.6.
+* Xiaojing Yu, Jing Zhao, Guobin Shen, Yang Li. Navigation data processing method and device, Patent No.202011568025.3.
+* Xiang-Yang Li, Xiaojing Yu, Zhijun Zhou. A user identification authentication method for smart wearable devices, Patent No.202010963406.5.
+
+
+Academic Service
+======
+* Volunteer in ACM Turing Celebration Conference - China 2019 (Chengdu, China)
+* Volunteer in 12th International Conference on Mobile Ad-hoc and Sensor Networks 2016 (Hefei, China)
+
 
 Scholarship and Awards
 ======
@@ -61,12 +65,6 @@ Scholarship and Awards
 * Cyrus Tang Scholarship, 2014-2018.
 * Alumni Scholarship, Special Class for the Gifted Young, 2017.
 
-Patents
-======
-* Anran Li, Xiang-Yang Li, Lan Zhang, Yunting Xie. Data quality evaluation method and system, patent No. 202010472680.2
-* Lan Zhang, Xiang-Yang Li, Anran Li. An efficient method for identifying erroneous samples in federated learning scenarios, patent No. 202010961288.4.
-* Lan Zhang, Xiang-Yang Li, Anran Li. A method of sample-level data selection for federated learning, patent No.202011464915.X
-* Xiang-Yang Li, Shuangshuang Xue, Lan Zhang, Anran Li. A method of feature extraction for mobile applications, patent No. 201910103820.6.
 
 Talks
 ======
