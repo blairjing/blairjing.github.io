@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, 2023 (expected)
+* **Ph.D in Computer Science, 2023 (expected)**
 : University of Science and Technology of China, Hefei, China
-* B.S. in Computer Science,  2018
+* **B.S. in Computer Science,  2018**
 : University of Science and Technology of China, Hefei, China
 
 
@@ -40,9 +40,15 @@ Publications
 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Computational Economics**, USTC
+: Teaching Assistant, 2021,2022
+
+* **Software Engineering**, USTC
+: Teaching Assistant, 2019
+
+* **Data Structure**, USTC
+: Teaching Assistant, 2017
+
 
 Service and leadership
 ======
@@ -50,13 +56,20 @@ Service and leadership
 
 Scholarship and Awards
 ======
+* National Scholarship, USTC, 2020.
+* Academic Scholarship, USTC, 2018-2021.
+* Cyrus Tang Scholarship, 2014-2018.
+* Alumni Scholarship, Special Class for the Gifted Young, 2017.
 
 Patents
 ======
+* Anran Li, Xiang-Yang Li, Lan Zhang, Yunting Xie. Data quality evaluation method and system, patent No. 202010472680.2
+* Lan Zhang, Xiang-Yang Li, Anran Li. An efficient method for identifying erroneous samples in federated learning scenarios, patent No. 202010961288.4.
+* Lan Zhang, Xiang-Yang Li, Anran Li. A method of sample-level data selection for federated learning, patent No.202011464915.X
+* Xiang-Yang Li, Shuangshuang Xue, Lan Zhang, Anran Li. A method of feature extraction for mobile applications, patent No. 201910103820.6.
 
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Presentation of the paper 'ANTIGONE: Accurate Navigation Path Caching in Dynamic Road Networks leveraging Route APIs' in the conference INFOCOM 2022.
+* Presentation of the paper 'Thumbup: Identification and Authentication by Smartwatch using Simple Hand Gestures' in the conference PerCom 2020.
 
