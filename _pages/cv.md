@@ -19,15 +19,30 @@ Education
 
 Professional Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Mar. 2022 - present: Data Scientist Intern. 
+  *  , Deqing, China. 
+  *  Duties included: 
+  *  Supervisor: Prof. [Lan Zhang](https://scholar.google.com/citations?user=83QxmA8AAAAJ&hl=en)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Mar. 2020 - Oct. 2020: Data Scientist Intern. 
+  *  Alibaba Group, Shanghai, China. 
+  *  Duties included: Tagging issues
+  *  Supervisor: Prof. [Tian He](https://scholar.google.com/citations?user=hc1m_BQAAAAJ&hl=en)
+
+* Oct. 2018 - Jun. 2019: Research Assistant. 
+  *  Huami, Shanghai, China. 
+  *  Duties included: 
+  *  Supervisor: Dr. Sui Deng
+
+* Oct. 2017 - Jan. 2018: Software Engineer Intern
+  *  Microsoft, Suzhou, China.
+  *  Duties included: in XiaoIce \& CJK-SuZ Team
+  *  Supervisor: Dr. [Nicholas Jing Yuan](https://scholar.google.com/citations?user=B-d1EHAAAAAJ&hl=en)
+
+* Summer 2017: Visiting Student
+  *  **University of Texas at Austin**, Austin, Texas.
+  *  Duties included: 
+  *  Supervisor: Prof. [Lili Qiu](https://www.cs.utexas.edu/~lili/)
 
 
 Publications
