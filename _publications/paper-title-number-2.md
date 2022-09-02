@@ -1,7 +1,7 @@
 ---
-title: "Thumbup: Identification and authentication by smartwatch using simple hand gestures"
+title: "Thumbup: Identification and Authentication by Smartwatch using Simple Hand Gestures."
 collection: publications
-permalink: /publication/Thumbup Identification and authentication by smartwatch using simple hand gestures
+permalink: /publication/Thumbup Identification and Authentication by Smartwatch using Simple Hand Gestures
 excerpt: 'A smartwatch-based two-factor real-time identification and authentication system.'
 date: 2020-03-01
 venue: 'IEEE International Conference on Pervasive Computing and Communications (PerCom 2020)'
