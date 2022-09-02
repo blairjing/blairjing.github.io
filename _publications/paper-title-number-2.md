@@ -1,9 +1,9 @@
 ---
 title: "Thumbup: Identification and authentication by smartwatch using simple hand gestures"
 collection: publications
-permalink: /publication/Thumbup: Identification and authentication by smartwatch using simple hand gestures
+permalink: /publication/Thumbup Identification and authentication by smartwatch using simple hand gestures
 excerpt: 'A smartwatch-based two-factor real-time identification and authentication system.'
-date: 2015-10-01
+date: 2020-03-01
 venue: 'IEEE International Conference on Pervasive Computing and Communications (PerCom 2020)'
 paperurl: 'https://www.computer.org/csdl/proceedings-article/percom/2020/09127367/1l3yJSxjyqQ'
 citation: 'Xiaojing Yu, Zhijun Zhou, Mingxue Xu, Xuanke You, Xiang-Yang Li. Thumbup: Identification and authentication by smartwatch using simple hand gestures. IEEE International Conference on Pervasive Computing and Communications (PerCom 2020).'
