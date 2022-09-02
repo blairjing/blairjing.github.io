@@ -1,7 +1,7 @@
 ---
 title: "ANTIGONE: Accurate Navigation Path Caching in Dynamic Road Networks leveraging Route APIs"
 collection: publications
-permalink: /publications/2009-10-01-test-accts-intro
+permalink: /publications/ANTIGONE Accurate Navigation Path Caching in Dynamic Road Networks leveraging Route APIs
 excerpt: 'Updating paths in the cache in a fashion that incurs minimal costs due to querying external map service providers and cache maintenance.'
 date: 2022-05-02
 venue: 'IEEE Conference on Computer Communications (INFOCOM)'
@@ -12,4 +12,3 @@ Navigation paths and corresponding travel times play a key role in location-base
 
 [Download paper here](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=9796817)
 
-Recommended citation: Xiaojing Yu, Xiang-Yang Li, Jing Zhao, Guobin Shen, Nikolaos M. Freris, Lan Zhang. ANTIGONE: Accurate Navigation Path Caching in Dynamic Road Networks leveraging Route APIs, IEEE Conference on Computer Communications (INFOCOM 2021).
