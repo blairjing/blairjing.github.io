@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently a fifth-year Ph.D. student in the School of Computer Science and Technology at University of Science and Technology of China. I am very fortunate to be advised by professor [Xiang-yang Li](http://staff.ustc.edu.cn/~xiangyangli/) and professor [Lan Zhang](https://scholar.google.com/citations?user=83QxmA8AAAAJ&hl=en). 
+We work on mobile computing, human interaction, and GIS management. 
+I recieved my Bachelor’s degree in Computer Science and Technology from the Special Class for the Gifted Young, University of Science and Technology of China in 2018.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+Recent News
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
+
+Publications
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+1. **ANTIGONE: Accurate Navigation Path Caching in Dynamic Road Networks leveraging Route APIs.** 
+<small> (INFOCOM 2022) [Paper](https://ieeexplore.ieee.org/abstract/document/9796817) </small>
+: **Xiaojing Yu**, Xiang-Yang Li, Jing Zhao, Guobin Shen, Nikolaos M. Freris, Lan Zhang. 
+: Navigation paths and corresponding travel times play a key role in location-based services (LBS) of which large-scale navigation path caching constitutes a fundamental component. In view of the highly dynamic real-time traffic changes in road networks, the main challenge amounts to updating paths in the cache in a fashion that incurs minimal costs due to querying external map service providers and cache maintenance. In this paper, we propose a hybrid graph approach in which an LBS provider maintains a dynamic graph with edge weights representing travel times, and queries the external map server so as to ascertain high fidelity of the cached paths subject to stringent limitations on query costs. We further deploy our method in one of the biggest on-demand food delivery platforms and evaluate the performance against state-of-the-art methods. Our experimental results demonstrate the efficacy of our approach in terms of both substantial savings in the number of required queries and superior fidelity of the cached paths.
+2. **Thumbup: Identification and Authentication by Smartwatch using Simple Hand Gestures.** 
+<small> (PerCom 2020) [Paper](https://www.computer.org/csdl/proceedings-article/percom/2020/09127367/1l3yJSxjyqQ) </small>
+:  **Xiaojing Yu**, Zhijun Zhou, Mingxue Xu, Xuanke You, Xiang-Yang Li.
+: The widespread creative application and smart devices call for convenient and secure interaction with human users. We propose, design, and implement a smartwatch-based two-factor real-time identification and authentication system named ThumbUp, where smartwatch users can identify and authenticate themselves by some simple hand and finger gestures, such as thumb-up. ThumbUp leverages the signal collected from the Inertial Measurement Unit (IMU) in Commercial Off-The-Shelf (COTS) smart devices and discovers the unique fingerprint pattern produced by each user’s simple hand gestures using a carefully crafted deep learning model. We implement our system and conduct extensive experiments to evaluate its efficacy and efficiency with 65 different users over a period of more than 3 months. It reaches an accuracy of 97% for identification, and EER 0.014 for authentication using only one simple gesture. We also survey the users’ acceptance of our system and discuss how the proficiency of gestures affects authentication accuracy.
+3. **XHAR: Deep Domain Adaptation for Human Activity Recognition with Smart Devices.** 
+<small> (SECON 2020) [Paper](https://ieeexplore.ieee.org/abstract/document/9158431) </small>
+:  Zhijun Zhou, Yingtian Zhang, **Xiaojing Yu**, Panlong Yang, Xiang-Yang Li, Jing Zhao, Hao Zhou
+: To further improve the convenience and effectiveness of human computer interaction (HCI) with smart devices, human activity recognition (HAR) has been widely studied from various aspects. Unfortunately, deep learning based methods often suffer from either expensive labeling efforts or weak generalization ability. Inspired by recently developed domain adaptation strategies, we propose XHAR, a novel adversarial deep domain adaptation framework for HAR using smart devices, providing better device and user adaptation. XHAR first selects the most similar source dataset (with label), then extracts device and user independent spatial-temporal features through the combinations of Convolutional Neural Networks (CNN) and Bidirectional Gated Recurrent Units (BiGRU) feature extractors. Moreover, it removes the distribution discrepancy using multiple domain discriminators, and finally performs adaptation on the target dataset (without label) to obtain the predicted labels. We conduct extensive experiments on 50 users (i.e., of different ages, genders, and body shapes) and 4 smart devices with two kinds of datasets (i.e., gesture activities and sport activities). We compare our method with the source-only model and several state-of-the-art domain adaptation models. The results show that XHAR increases the classification accuracy by at least 4.81% (to 74.50%) on the adaptation between different users, and accordingly by at least 9.25% (to 69.23%) between different devices.
+4. **Entropy Repulsion for Semi-supervised Learning Against Class Mismatch.** 
+<small> (PerCom 2020) [Paper](https://ieeexplore.ieee.org/abstract/document/9158431) </small>
+:  Xuanke You, Lan Zhang, Linzhuo Yang, **Xiaojing Yu**, Kebin Liu
+: A series of semi-supervised learning (SSL) algorithms have been proposed to alleviate the need for labeled data by leveraging large amounts of unlabeled data. Those algorithms have achieved good performance on standard benchmark datasets, however, their performance can degrade drastically when there exists a class mismatch between the labeled and unlabeled data, which is common in practice. In this work, we propose a new technique, entropy repulsion for mismatch (ERCM), to improve SSL against a class mismatch situation. Specifically, we design an entropy repulsion loss and a batch annealing and reloading mechanism, which work together to prevent potentially mismatched unlabeled data from participating in the early training stages as well as facilitate the minimization of the unsupervised loss term of traditional SSL algorithms. ERCM can be adopted to enhance existing SSL algorithms with minor extra computation cost and no change to their network structures. Our extensive experiments demonstrate that ERCM can significantly improve the performance of state-of-the-art SSL algorithms, namely Mean Teacher, Virtual Adversarial Training (VAT) and Mixmatch in various class-mismatch cases.
