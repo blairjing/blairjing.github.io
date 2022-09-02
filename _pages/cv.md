@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * **Ph.D in Computer Science, 2023 (expected)**
 : University of Science and Technology of China, Hefei, China
 * **B.S. in Computer Science,  2018**
@@ -18,35 +18,26 @@ Education
 
 
 Professional Experience
-======
-* Mar. 2022 - present: Data Scientist Intern. 
-  *  , Deqing, China. 
+------
+* **Mar. 2022 - present: Data Scientist Intern**. 
+  *  Deqing Alpha Innovation Institute, Hangzhou, China. Supervisor: Prof. [Lan Zhang](https://scholar.google.com/citations?user=83QxmA8AAAAJ&hl=en)
   *  Duties included: 
-  *  Supervisor: Prof. [Lan Zhang](https://scholar.google.com/citations?user=83QxmA8AAAAJ&hl=en)
-
-* Mar. 2020 - Oct. 2020: Data Scientist Intern. 
-  *  Alibaba Group, Shanghai, China. 
+* **Mar. 2020 - Oct. 2020: Data Scientist Intern**. 
+  *  Alibaba Group, Shanghai, China.  Supervisor: Prof. [Tian He](https://scholar.google.com/citations?user=hc1m_BQAAAAJ&hl=en)
   *  Duties included: Tagging issues
-  *  Supervisor: Prof. [Tian He](https://scholar.google.com/citations?user=hc1m_BQAAAAJ&hl=en)
-
-* Oct. 2018 - Jun. 2019: Research Assistant. 
-  *  Huami, Shanghai, China. 
+* **Oct. 2018 - Jun. 2019: Research Assistant**. 
+  *  Huami, Hefei, China. Supervisor: Dr. Sui Deng
   *  Duties included: 
-  *  Supervisor: Dr. Sui Deng
-
-* Oct. 2017 - Jan. 2018: Software Engineer Intern
-  *  Microsoft, Suzhou, China.
+* **Oct. 2017 - Jan. 2018: Software Engineer Intern**.
+  *  Microsoft, Suzhou, China. Supervisor: Dr. [Nicholas Jing Yuan](https://scholar.google.com/citations?user=B-d1EHAAAAAJ&hl=en)
   *  Duties included: in XiaoIce \& CJK-SuZ Team
-  *  Supervisor: Dr. [Nicholas Jing Yuan](https://scholar.google.com/citations?user=B-d1EHAAAAAJ&hl=en)
-
-* Summer 2017: Visiting Student
-  *  **University of Texas at Austin**, Austin, Texas.
+* **Summer 2017: Visiting Student**.
+  *  University of Texas at Austin, Austin, Texas. Supervisor: Prof. [Lili Qiu](https://www.cs.utexas.edu/~lili/)
   *  Duties included: 
-  *  Supervisor: Prof. [Lili Qiu](https://www.cs.utexas.edu/~lili/)
 
 
 Publications
-======
+------
 1. **ANTIGONE: Accurate Navigation Path Caching in Dynamic Road Networks leveraging Route APIs.** (INFOCOM 2022) [Paper](https://ieeexplore.ieee.org/abstract/document/9796817)
 : **Xiaojing Yu**, Xiang-Yang Li, Jing Zhao, Guobin Shen, Nikolaos M. Freris, Lan Zhang.
 2. **Thumbup: Identification and Authentication by Smartwatch using Simple Hand Gestures.** (PerCom 2020) [Paper](https://www.computer.org/csdl/proceedings-article/percom/2020/09127367/1l3yJSxjyqQ)
@@ -56,28 +47,29 @@ Publications
 4. **Entropy Repulsion for Semi-supervised Learning Against Class Mismatch.** (ICONIP 2020) [Paper](https://ieeexplore.ieee.org/abstract/document/9158431)
 : Xuanke You, Lan Zhang, Linzhuo Yang, **Xiaojing Yu**, Kebin Liu.
 
+
 Teaching
-======
+------
 * **Computational Economics**, Teaching Assistant, USTC, 2021, 2022
 * **Software Engineering**,  Teaching Assistant, USTC, 2019
 * **Data Structure**, Teaching Assistant, USTC, 2017
 
 
 Patents
-======
+------
 * Xiang-Yang Li, Xiaojing Yu, Lan Zhang. A method of updating map navigation cache database, Patent No.202110704336.6.
 * Xiaojing Yu, Jing Zhao, Guobin Shen, Yang Li. Navigation data processing method and device, Patent No.202011568025.3.
 * Xiang-Yang Li, Xiaojing Yu, Zhijun Zhou. A user identification authentication method for smart wearable devices, Patent No.202010963406.5.
 
 
 Academic Service
-======
+------
 * Volunteer in ACM Turing Celebration Conference - China 2019 (Chengdu, China)
 * Volunteer in 12th International Conference on Mobile Ad-hoc and Sensor Networks 2016 (Hefei, China)
 
 
 Scholarship and Awards
-======
+------
 * National Scholarship, USTC, 2020.
 * Academic Scholarship, USTC, 2018-2021.
 * Cyrus Tang Scholarship, 2014-2018.
@@ -85,7 +77,7 @@ Scholarship and Awards
 
 
 Talks
-======
+------
 * Presentation of the paper 'ANTIGONE: Accurate Navigation Path Caching in Dynamic Road Networks leveraging Route APIs' in the conference INFOCOM 2022.
 * Presentation of the paper 'Thumbup: Identification and Authentication by Smartwatch using Simple Hand Gestures' in the conference PerCom 2020.
 
