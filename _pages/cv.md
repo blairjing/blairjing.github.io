@@ -19,21 +19,21 @@ Education
 
 Professional Experience
 ------
-* **Mar. 2022 - present: Data Scientist Intern**. 
-  *  Deqing Alpha Innovation Institute, Hangzhou, China. Supervisor: Prof. [Lan Zhang](https://scholar.google.com/citations?user=83QxmA8AAAAJ&hl=en)
-  *  Duties included: 
-* **Mar. 2020 - Oct. 2020: Data Scientist Intern**. 
-  *  Alibaba Group, Shanghai, China.  Supervisor: Prof. [Tian He](https://scholar.google.com/citations?user=hc1m_BQAAAAJ&hl=en)
-  *  Duties included: Tagging issues
-* **Oct. 2018 - Jun. 2019: Research Assistant**. 
-  *  Huami, Hefei, China. Supervisor: Dr. Sui Deng
-  *  Duties included: 
-* **Oct. 2017 - Jan. 2018: Software Engineer Intern**.
-  *  Microsoft, Suzhou, China. Supervisor: Dr. [Nicholas Jing Yuan](https://scholar.google.com/citations?user=B-d1EHAAAAAJ&hl=en)
-  *  Duties included: in XiaoIce \& CJK-SuZ Team
-* **Summer 2017: Visiting Student**.
-  *  University of Texas at Austin, Austin, Texas. Supervisor: Prof. [Lili Qiu](https://www.cs.utexas.edu/~lili/)
-  *  Duties included: 
+* Mar. 2022 - present: **Applied Scientist Intern**. 
+  *  **Deqing Alpha Innovation Institute**, Hangzhou, China. Supervisor: Prof. [Lan Zhang](https://scholar.google.com/citations?user=83QxmA8AAAAJ&hl=en)
+  *  Deploy real-time active speaker detection systems and detect teacher-student interactions in smart education scenarios。
+* Mar. 2020 - Oct. 2020: **Data Scientist Intern**. 
+  *  **Alibaba Group**, Shanghai, China.  Advisor: Prof. [Tian He](https://scholar.google.com/citations?user=hc1m_BQAAAAJ&hl=en)
+  *  Built an effective lightweight cached navigation update algorithm to mine the abnormal paths of knights during delivery, which is used to improve ETA time accuracy and refine navigation. (INFOCOM 2022)
+* Oct. 2018 - Jun. 2019: **Research Assistant**. 
+  *  **Huami**, Hefei, China. Advisor: Dr. Sui Deng
+  *  Developed real-time accurate fall detection system based on smart wearable device that takes into account the availability of storage and computation.
+* Oct. 2017 - Jan. 2018: **Software Engineer Intern**.
+  *  **Microsoft**, Suzhou, China. Advisor: Dr. [Nicholas Jing Yuan](https://scholar.google.com/citations?user=B-d1EHAAAAAJ&hl=en)
+  *  Developed the correlation analysis among stock price fluctuation, company financial report, and relevant industry news (C#) in XiaoIce & CJK-SuZ Team.
+* Summer 2017: **Visiting Student**.
+  *  **University of Texas at Austin**, Austin, Texas. Supervisor: Prof. [Lili Qiu](https://www.cs.utexas.edu/~lili/)
+  *  Users localization based on their voice using a smartspeaker like device.
 
 
 Publications
