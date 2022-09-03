@@ -51,7 +51,7 @@ Publications
 Teaching
 ------
 * **Computational Economics**, Teaching Assistant, USTC, 2021, 2022.
-* **Software Engineering**,  Teaching Assistant, USTC, 2019.
+* **Software Engineering**,  Teaching Assistant, USTC, 2018, 2019.
 * **Data Structure**, Teaching Assistant, USTC, 2017.
 
 
