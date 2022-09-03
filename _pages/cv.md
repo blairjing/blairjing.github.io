@@ -21,10 +21,10 @@ Professional Experience
 ------
 * Mar. 2022 - present: **Applied Scientist Intern**. 
   *  **Deqing Alpha Innovation Institute**, Hangzhou, China. Supervisor: Prof. [Lan Zhang](https://scholar.google.com/citations?user=83QxmA8AAAAJ&hl=en)
-  *  Deploy real-time active speaker detection systems and detect teacher-student interactions in smart education scenarios。
+  *  Deploy real-time active speaker detection systems and detect teacher-student interactions in smart education scenarios.
 * Mar. 2020 - Oct. 2020: **Data Scientist Intern**. 
   *  **Alibaba Group**, Shanghai, China.  Advisor: Prof. [Tian He](https://scholar.google.com/citations?user=hc1m_BQAAAAJ&hl=en)
-  *  Built an effective lightweight cached navigation update algorithm to mine the abnormal paths of knights during delivery, which is used to improve ETA time accuracy and refine navigation. (INFOCOM 2022)
+  *  Built an effective lightweight cached navigation update algorithm to mine the abnormal paths of knights during delivery, which is used to improve ETA time accuracy and refine navigation (INFOCOM 2022).
 * Oct. 2018 - Jun. 2019: **Research Assistant**. 
   *  **Huami**, Hefei, China. Advisor: Dr. Sui Deng
   *  Developed real-time accurate fall detection system based on smart wearable device that takes into account the availability of storage and computation.
@@ -50,9 +50,9 @@ Publications
 
 Teaching
 ------
-* **Computational Economics**, Teaching Assistant, USTC, 2021, 2022
-* **Software Engineering**,  Teaching Assistant, USTC, 2019
-* **Data Structure**, Teaching Assistant, USTC, 2017
+* **Computational Economics**, Teaching Assistant, USTC, 2021, 2022.
+* **Software Engineering**,  Teaching Assistant, USTC, 2019.
+* **Data Structure**, Teaching Assistant, USTC, 2017.
 
 
 Patents
@@ -64,8 +64,8 @@ Patents
 
 Academic Service
 ------
-* Volunteer in ACM Turing Celebration Conference - China 2019 (Chengdu, China)
-* Volunteer in 12th International Conference on Mobile Ad-hoc and Sensor Networks 2016 (Hefei, China)
+* Volunteer in ACM Turing Celebration Conference - China 2019 (Chengdu, China).
+* Volunteer in 12th International Conference on Mobile Ad-hoc and Sensor Networks 2016 (Hefei, China).
 
 
 Scholarship and Awards
