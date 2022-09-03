@@ -15,7 +15,8 @@ I recieved my Bachelor’s degree in Computer Science and Technology from the Sp
 
 Recent News
 ------
-
+* Join Deqing Alpha Innovation Institute as Applied Scientist Intern.
+* Our work on *Accurate Navigation Path Caching in Dynamic Road Networks leveraging Route APIs* is accepted to INFOCOM 2022!
 
 Publications
 ------
