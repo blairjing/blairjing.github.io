@@ -3,7 +3,7 @@ title: "ThumbUp: Secure Smartwatch Controller for Smart Homes using Simple Hand 
 collection: publications
 permalink: /publications/ThumbUp Secure Smartwatch Controller for Smart Homes using Simple Hand Gestures
 excerpt: 'User-friendly samrt home controller based on  real-time smartwatch HAR and authentication system.'
-date: 2022-05-02
+date: 2022-11-01
 venue: 'IEEE Transactions on Mobile Computing (TMC)'
 paperurl: 'https://doi.ieeecomputersociety.org/10.1109/TMC.2022.3216927'
 citation: 'Xiaojing Yu,  Zhijun Zhou, Lan Zhang, Xiang-Yang Li. ThumbUp: Secure Smartwatch Controller for Smart Homes using Simple Hand Gestures, Transactions on Mobile Computing  (TMC 2022).'
