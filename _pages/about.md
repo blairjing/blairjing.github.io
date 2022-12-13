@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fifth-year Ph.D. student in the School of Computer Science and Technology at University of Science and Technology of China. I am very fortunate to be advised by professor [Xiang-yang Li](http://staff.ustc.edu.cn/~xiangyangli/) and professor [Lan Zhang](https://scholar.google.com/citations?user=83QxmA8AAAAJ&hl=en). 
-We work on mobile computing, human interaction, and GIS management. 
-I recieved my Bachelor’s degree in Computer Science and Technology from the Special Class for the Gifted Young, University of Science and Technology of China in 2018.
+I am currently a fifth-year Ph.D. student in the School of Computer Science and Technology at University of Science and Technology of China. I am very fortunate to be advised by Prof. [Xiang-yang Li](http://staff.ustc.edu.cn/~xiangyangli/) and Prof. [Lan Zhang](https://scholar.google.com/citations?user=83QxmA8AAAAJ&hl=en). 
+My research interests include *mobile computing and human-computer interaction*. 
+I recieved my Bachelor’s degree in Computer Science and Technology from *the Special Class for the Gifted Young*, University of Science and Technology of China in 2018.
 
 
 Recent News
