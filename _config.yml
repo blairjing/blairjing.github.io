@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xiaojing Yu"
   avatar           : "website.jpg"
-  bio              : "Ph.D. student in CS, University of Science and Technology of China"
+  bio              : "Ph.D. student in [Lab for Intelligent Networking and Knowledge Engineering](https://linke.ustc.edu.cn/main.htm), School of Computer Science and Technology, University of Science and Technology of China (USTC)"
   location         : "Hefei, Anhui, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=zm79k4wAAAAJ&hl=en"
-  email            : 
+  email            : "yxjing@mail.ustc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
