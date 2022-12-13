@@ -20,11 +20,13 @@ Recent News
 
 Publications
 ------
-1. [**ANTIGONE: Accurate Navigation Path Caching in Dynamic Road Networks leveraging Route APIs.**](/publications/ANTIGONE Accurate Navigation Path Caching in Dynamic Road Networks leveraging Route APIs) (INFOCOM 2022) [Paper](https://ieeexplore.ieee.org/abstract/document/9796817)
+1. [**ThumbUp: Secure Smartwatch Controller for Smart Homes using Simple Hand Gestures.**](/publications/ThumbUp Secure Smartwatch Controller for Smart Homes using Simple Hand Gestures) (TMC 2022) [Paper](https://doi.ieeecomputersociety.org/10.1109/TMC.2022.3216927)
+: **Xiaojing Yu**, Zhijun Zhou, Lan Zhang, Xiang-Yang Li.
+2. [**ANTIGONE: Accurate Navigation Path Caching in Dynamic Road Networks leveraging Route APIs.**](/publications/ANTIGONE Accurate Navigation Path Caching in Dynamic Road Networks leveraging Route APIs) (INFOCOM 2022) [Paper](https://ieeexplore.ieee.org/abstract/document/9796817)
 : **Xiaojing Yu**, Xiang-Yang Li, Jing Zhao, Guobin Shen, Nikolaos M. Freris, Lan Zhang.
-2. [**Thumbup: Identification and Authentication by Smartwatch using Simple Hand Gestures.**](/publication/Thumbup Identification and Authentication by Smartwatch using Simple Hand Gestures) (PerCom 2020) [Paper](https://www.computer.org/csdl/proceedings-article/percom/2020/09127367/1l3yJSxjyqQ)
+3. [**Thumbup: Identification and Authentication by Smartwatch using Simple Hand Gestures.**](/publication/Thumbup Identification and Authentication by Smartwatch using Simple Hand Gestures) (PerCom 2020) [Paper](https://www.computer.org/csdl/proceedings-article/percom/2020/09127367/1l3yJSxjyqQ)
 : **Xiaojing Yu**, Zhijun Zhou, Mingxue Xu, Xuanke You, Xiang-Yang Li.
-3. **XHAR: Deep Domain Adaptation for Human Activity Recognition with Smart Devices.**  (SECON 2020) [Paper](https://ieeexplore.ieee.org/abstract/document/9158431)
+4. **XHAR: Deep Domain Adaptation for Human Activity Recognition with Smart Devices.**  (SECON 2020) [Paper](https://ieeexplore.ieee.org/abstract/document/9158431)
 : Zhijun Zhou, Yingtian Zhang, **Xiaojing Yu.**,Panlong Yang, Xiang-Yang Li, Jing Zhao, Hao Zhou. 
-4. **Entropy Repulsion for Semi-supervised Learning Against Class Mismatch.** (ICONIP 2020) [Paper](https://ieeexplore.ieee.org/abstract/document/9158431)
+5. **Entropy Repulsion for Semi-supervised Learning Against Class Mismatch.** (ICONIP 2020) [Paper](https://ieeexplore.ieee.org/abstract/document/9158431)
 : Xuanke You, Lan Zhang, Linzhuo Yang, **Xiaojing Yu**, Kebin Liu.
