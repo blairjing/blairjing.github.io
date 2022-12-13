@@ -15,6 +15,7 @@ I recieved my Bachelor’s degree in Computer Science and Technology from the Sp
 
 Recent News
 ------
+* Nov. 2022: Our work on *ThumbUp: Secure Smartwatch Controller for Smart Homes using Simple Hand Gestures* is accepted to TMC 2022!
 * Mar. 2022: Join Deqing Alpha Innovation Institute as Applied Scientist Intern.
 * Dov. 2021: Our work on *Accurate Navigation Path Caching in Dynamic Road Networks leveraging Route APIs* is accepted to INFOCOM 2022!
 
