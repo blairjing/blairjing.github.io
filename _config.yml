@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiaojing Yu / Ph.D. student in CS"
 title_separator          : "-"
 name                     : &name "Xiaojing Yu"
-description              : &description "Ph.D. student in [Lab for Intelligent Networking and Knowledge Engineering](https://linke.ustc.edu.cn/main.htm), School of Computer Science and Technology, University of Science and Technology of China (USTC)"
+description              : &description "Ph.D. student in Lab for Intelligent Networking and Knowledge Engineering, School of Computer Science and Technology, University of Science and Technology of China (USTC)"
 url                      : https://blairjing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "blairjing/blairjing.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiaojing Yu"
   avatar           : "website.jpg"
-  bio              : "Ph.D. student in [Lab for Intelligent Networking and Knowledge Engineering](https://linke.ustc.edu.cn/main.htm), School of Computer Science and Technology, University of Science and Technology of China (USTC)"
+  bio              : "Ph.D. student in Lab for Intelligent Networking and Knowledge Engineering, School of Computer Science and Technology, University of Science and Technology of China (USTC)"
   location         : "Hefei, Anhui, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
