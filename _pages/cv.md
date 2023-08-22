@@ -46,7 +46,7 @@ Publications
 : **Xiaojing Yu**, Xiang-Yang Li, Jing Zhao, Guobin Shen, Nikolaos M. Freris, Lan Zhang.
 4. **Thumbup: Identification and Authentication by Smartwatch using Simple Hand Gestures.** (PerCom 2020) [Paper](https://www.computer.org/csdl/proceedings-article/percom/2020/09127367/1l3yJSxjyqQ)
 : **Xiaojing Yu**, Zhijun Zhou, Mingxue Xu, Xuanke You, Xiang-Yang Li.
-5. **Differentially Private Distributed Online Convex Optimization Towards Low Regret and Communication Cost.** (MobiHot 2023)
+5. **Differentially Private Distributed Online Convex Optimization Towards Low Regret and Communication Cost.** (MobiHoc 2023)
 : Jiandong Liu, Xiangyang Li, Xiaojing Yu, Lan Zhang.
 6. **XHAR: Deep Domain Adaptation for Human Activity Recognition with Smart Devices.**  (SECON 2020) [Paper](https://ieeexplore.ieee.org/abstract/document/9158431)
 : Zhijun Zhou, Yingtian Zhang, **Xiaojing Yu**,Panlong Yang, Xiang-Yang Li, Jing Zhao, Hao Zhou. 
