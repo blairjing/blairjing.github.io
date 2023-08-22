@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaojing Yu / Ph.D. student in CS"
+title                    : "Xiaojing Yu"
 title_separator          : "-"
 name                     : &name "Xiaojing Yu"
-description              : &description "Ph.D. student in School of Computer Science and Technology, University of Science and Technology of China (USTC)"
+description              : &description "Postdoctoral Associate in Computer Science, Yale University"
 url                      : https://blairjing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "blairjing/blairjing.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xiaojing Yu"
   avatar           : "website-v2.png"
-  bio              : "Ph.D. student in School of Computer Science and Technology, University of Science and Technology of China (USTC)"
-  location         : "Hefei, Anhui, China"
+  bio              : "Postdoctoral Associate in Computer Science, Yale University"
+  location         : "New Haven, CT"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=zm79k4wAAAAJ&hl=en"
-  email            : "yxjing@mail.ustc.edu.cn"
+  email            : "xiaojing.yu@yale.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
