@@ -21,7 +21,7 @@ Recent News
 
 Publications
 ------
-1. **Differentially Private Distributed Online Convex Optimization Towards Low Regret and Communication Cost.** (MobiHot 2023) 
+1. **Differentially Private Distributed Online Convex Optimization Towards Low Regret and Communication Cost.** (MobiHoc 2023) 
 : Jiandong Liu, Xiangyang Li, **Xiaojing Yu**, Lan Zhang.
 2. [**E-Talk: Accelerating Active Speaker Detection with Audio-Visual Fusion and Edge-Cloud Computing.**](/publications/E-Talk Accelerating Active Speaker Detection with Audio-Visual Fusion and Edge-Cloud Computing) (SECON 2023) 
 : **Xiaojing Yu**, Lan Zhang, Xiang-Yang Li.
