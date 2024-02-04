@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi! I'm Xiaojing Yu. I am a Postdoctoral Associate of the [ECL](https://www.yecl.org/) group in the Computer Science Department at Yale. I received my PhD. in Computer Science and Technology at University of Science and Technology of China in 2023, advised by  Prof. [Xiangyang Li](http://staff.ustc.edu.cn/~xiangyangli/) and Prof. [Lan Zhang](https://scholar.google.com/citations?user=83QxmA8AAAAJ&hl=en). My thesis topic is Individual and Group Behavior Analysis for IoT Applications. 
-I recieved my Bachelor’s degree in Computer Science and Technology from *the Special Class for the Gifted Young*, University of Science and Technology of China in 2018.
+I recieved my Bachelor’s degree in Computer Science and Technology, University of Science and Technology of China in 2018.
 My research interests include *mobile computing and human-computer interaction*. 
 
 Recent News
