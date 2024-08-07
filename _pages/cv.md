@@ -70,6 +70,8 @@ Patents
 
 Academic Service
 ------
+* Reviewer for Transactions on Information Forensics & Security
+* Reviewer for IEEE Internet of Things Journal
 * Volunteer in ACM Turing Celebration Conference - China 2019 (Chengdu, China).
 * Volunteer in 12th International Conference on Mobile Ad-hoc and Sensor Networks 2016 (Hefei, China).
 
